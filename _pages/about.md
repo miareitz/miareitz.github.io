@@ -1,25 +1,22 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Research Group Programming Languages/Methodologies at <a href="https://www.uni-kassel.de/eecs/plm/team/mia-reitz">University of Kassel</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: false
+  more_info:
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false
+selected_papers: false
 social: true # includes social icons at the bottom of the page
 ---
+Mia is a PhD student in her last year at University of Kassel in Germany. Since her bachelor’s, she has been interested in high-performance computing (HPC). Her research interests include fault tolerance and load balancing for task-based parallel programs on supercomputers. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+She's passionate about solving the challenges that come with pushing HPC to its limits.
+Specializing in Asynchronous Many-Task Programming, she focuses on building fault-tolerant and load-balanced systems that scale effortlessly as core counts keep growing.
+With more cores come more failures—her mission is to ensure that supercomputers can thrive under pressure, delivering peak performance even when things go wrong.
+From resilience to efficiency, she helps keep the world's most powerful machines running at their best.
