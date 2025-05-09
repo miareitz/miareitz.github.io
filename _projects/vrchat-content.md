@@ -4,7 +4,7 @@ title: VRChat Avatar and World Development
 description: Designing and creating custom 3D avatars and interactive worlds for the VRChat platform using Unity and Blender.
 importance: 3
 tags: [Unity, Blender, C#, 3D Modeling, VR, Game Development, Real-time Graphics, Content Creation]
-img: assets/img/projects/vr.png
+img: assets/img/projects/vr.jpg
 ---
 
 **Overview:**

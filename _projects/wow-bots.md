@@ -4,7 +4,7 @@ title: WoW Automation Tool
 description: Developed a C++ application for Windows to automate certain tasks in the game World of Warcraft, interacting with the Windows API.
 importance: 11
 tags: [C++, Windows API, Automation, Game Tooling, Gaming]
-img: assets/img/projects/wowbot.png
+img: assets/img/projects/wowbot.jpg
 ---
 
 **Overview:**

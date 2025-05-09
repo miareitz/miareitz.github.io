@@ -4,7 +4,7 @@ title: Steam Account Management Tool
 description: A C++ desktop application developed using the WinAPI to assist with managing Steam accounts.
 importance: 12
 tags: [C++, WinAPI, Desktop Application, Tooling, Automation, Windows]
-img: assets/img/projects/steamaccountmanager.png
+img: assets/img/projects/steamaccountmanager.jpg
 ---
 
 **Overview:**

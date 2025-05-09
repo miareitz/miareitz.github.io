@@ -6,7 +6,7 @@ importance: 1
 # You could add a custom field like:
 # period: "2015 - 2017"
 tags: [Java, FinTech, Automation, API Integration, Algorithmic Trading, Data Mining, Parallel Programming, XChange, JFreeChart, MtGox API, Kraken API, Yahoo Finance API]
-img: assets/img/projects/tradingbot.png
+img: assets/img/projects/tradingbot.jpg
 ---
 
 **Overview:**

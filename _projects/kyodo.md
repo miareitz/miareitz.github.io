@@ -4,7 +4,7 @@ title: Collaborative Text Editor
 description: An ncurses-based text editor built from scratch in C/C++, allowing multiple users to connect via TCP/IP and collaboratively edit files in real time.
 importance: 4
 tags: [C, C++, ncurses, Systems Programming, Networking, TCP/IP, Collaboration, Tooling, Text Editor]
-img: assets/img/projects/kyodo.png
+img: assets/img/projects/kyodo.jpg
 ---
 
 **Overview:**

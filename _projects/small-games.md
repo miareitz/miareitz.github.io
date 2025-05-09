@@ -4,7 +4,7 @@ title: Various Small Game Projects
 description: Developed several small games over the years, including a Python-based Snake game using Pygame, and other minor game projects in C++ with OpenGL.
 importance: 13
 tags: [Game Development, Python, Pygame, C++, OpenGL, Algorithms, Hobby Projects]
-img: assets/img/projects/snake.png
+img: assets/img/projects/snake.jpg
 ---
 
 **Overview:**
