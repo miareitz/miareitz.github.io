@@ -4,6 +4,7 @@ title: Vacation Rental Platform
 description: Programmed and operated a custom-built website for advertising vacation rentals for one year as a self-employment venture.
 importance: 2
 tags: [PHP, JavaScript, HTML, CSS, MySQL, Web Development, Full Stack, Entrepreneurship, Backend, Frontend]
+img: assets/img/projects/vacationrental.png
 ---
 
 **Overview:**

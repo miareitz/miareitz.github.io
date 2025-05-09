@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Meido - C++ IRC Bot with XDCC
+title: C++ IRC Bot with XDCC
 description: Developed a custom IRC chat bot in C++ with the Squirrel scripting language, featuring a self-implemented XDCC protocol for file sharing and various interactive features.
 importance: 8
 tags: [C++, Squirrel, IRC, Networking, ChatBot, XDCC, Tooling, Automation]
+img: assets/img/projects/ircbot.png
 ---
 
 **Overview:**

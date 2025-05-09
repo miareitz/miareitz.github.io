@@ -4,6 +4,7 @@ title: Portfolio Website for Maximilian Böhm
 description: Designed and developed a portfolio website for a friend, showcasing their work, using HTML, CSS, and JavaScript.
 importance: 2 # Adjust as needed - places it after your current DFG project
 tags: [Web Development, Frontend, HTML, CSS, JavaScript, Static Site, Portfolio, UI/UX Design] # Add UI/UX if you were involved in design
+img: assets/img/projects/maxportfolio.png
 ---
 
 **Overview:**

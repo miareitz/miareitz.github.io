@@ -4,6 +4,7 @@ title: Virtual Pet Android App
 description: Created a Tamagotchi-style virtual pet application for Android in Java as part of a university course project with a team of three.
 importance: 9
 tags: [Java, Android, Mobile Development, University Project, Game Development, Git, Team Project]
+img: assets/img/projects/virtualpet.png
 ---
 
 **Overview:**

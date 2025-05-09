@@ -4,6 +4,7 @@ title: Internship Management System
 description: Developed a Python-based web application from scratch, including a custom web server, to manage mandatory student internships for a Fachoberschule.
 importance: 5
 tags: [Python, Web Development, Backend, Custom Web Server, Education, Tooling, School Project]
+img: assets/img/projects/internshipmanagement.png
 ---
 
 **Overview:**

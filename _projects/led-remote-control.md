@@ -4,6 +4,7 @@ title: LED Remote Control System
 description: Created an Android client application (Java) and a Windows server (C++) to remotely control LED lights via TCP.
 importance: 10
 tags: [Java, Android, C++, Windows, Networking, TCP, IoT, Hardware Control, Client-Server]
+img: assets/img/projects/ledremote.png
 ---
 
 **Overview:**

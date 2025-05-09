@@ -4,6 +4,7 @@ title: GTA:SA Multiplayer Role-Playing Gamemodes
 description: Designed, scripted, and maintained role-playing game modes for Grand Theft Auto San Andreas Multiplayer (SAMP) and Multi Theft Auto (MTA), fostering small online player communities.
 importance: 7
 tags: [Game Modding, Scripting, Pawn, Lua, MTA, SAMP, SQLite, CSV, Community Management, Game Design, Gaming]
+img: assets/img/projects/gtaroleplay.png
 ---
 
 **Overview:**

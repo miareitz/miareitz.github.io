@@ -1,9 +1,10 @@
 ---
 layout: page
-title: TVoice - 3D Voice Chat Plugin for MTA
+title: 3D Voice Chat Plugin for MTA
 description: Created a C++ plugin for Multi Theft Auto (MTA) to integrate 3D positional voice chat into the game, utilizing the TeamSpeak 3 API.
 importance: 6
 tags: [C++, Game Modding, MTA, TeamSpeak API, Voice Chat, Audio Programming, Plugin Development, Gaming]
+img: assets/img/projects/tvoice.png
 ---
 
 **Overview:**
