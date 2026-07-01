@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Group Programming Languages/Methodologies at <a href="https://www.uni-kassel.de/eecs/plm/team/mia-reitz">University of Kassel</a>
+subtitle: Postdoc in the Research Group Programming Languages/Methodologies at <a href="https://www.uni-kassel.de/eecs/plm/team/mia-reitz">University of Kassel</a>
 
 profile:
   align: left
@@ -14,7 +14,7 @@ news: false
 selected_papers: false
 social: true # includes social icons at the bottom of the page
 ---
-I am a PhD student in my last year at University of Kassel in Germany. Since my bachelor's, I have been interested in high-performance computing (HPC).
+I am a postdoc in the Programming Languages/Methodologies research group at University of Kassel in Germany. I completed my PhD there in September 2025, and since my bachelor's, I have been interested in high-performance computing (HPC).
 My passions are about solving the challenges that come with pushing HPC to its limits.
 Specializing in Asynchronous Many-Task Programming, I focus on building fault-tolerant and load-balanced systems that scale effortlessly as core counts keep growing.
 With more cores come more failures: my mission is to ensure that supercomputers can thrive under pressure, delivering peak performance even when things go wrong.
