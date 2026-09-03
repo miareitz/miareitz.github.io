@@ -10,7 +10,7 @@ profile:
   image_circular: false
   more_info:
 
-news: false
+news: true
 selected_papers: false
 social: true # includes social icons at the bottom of the page
 ---
